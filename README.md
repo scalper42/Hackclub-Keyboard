@@ -30,12 +30,12 @@ Yo Boizzz , This Is A Keybaord Named KB75 That Includes 75 Keys [Mechanical] wit
 
 | Component | Quantity | Specification | Unit Price | Total Price |
 
-| **PCB** | 5 | Custom keyboard (5x4 matrix) | $25 with shipping | $25 with shipping 
-| **raspberry pi pico** | 1 | $5 
-| **Rotary encoder** | 1 | $1
-| **mechanical switches** | 75 | $75
-| **case and knobs** | 1 | Printing legion 
-| **Usb cable** | 1 | $4
+| **PCB** | 5 | Custom keyboard (5x4 matrix) | $25 with shipping | $25 with shipping|
+| **raspberry pi pico** | 1 | $5|
+| **Rotary encoder** | 1 | $1|
+| **mechanical switches** | 75 | $75|
+| **case and knobs** | 1 | Printing legion|
+| **Usb cable** | 1 | $4|
 
 ## JLCPCB
 <img width="1913" height="985" alt="image" src="https://github.com/user-attachments/assets/71104ca7-36a2-43f3-94fc-57ff5a12e498" />
