@@ -54,6 +54,6 @@ Yo Boizzz , This Is A Keybaord Named KB75 That Includes 75 Keys [Mechanical] wit
 
 **IDK WHY EVERYTHING IS SO EXPENSIVE IN INDIA**
 
-**Total Estimated Cost**: `$5 WITH SHIPPING CHARGES INCLUDED`
-I'm only asking for pcb cost as you guys said.
+**Total Estimated Cost**: `$120 WITH SHIPPING CHARGES INCLUDED`
+
 
