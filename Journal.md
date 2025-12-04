@@ -22,8 +22,6 @@ Position the microcontroller carefully.
 Solder a single pin first to hold it in place.
 Once it is aligned correctly, solder the remaining pins.
 
-(You can add a picture here of the PCB with components installed.)
-
 Step 2: Installing Stabilizers and Switches
 
 Install the stabilizers for the larger keys like spacebar, enter and backspace.
