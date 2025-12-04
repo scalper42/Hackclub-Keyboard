@@ -29,7 +29,6 @@ Press your switches into the PCB until they click and sit firmly.
 Place the PCB inside the case to make sure everything aligns properly.
 If it fits correctly, solder all the switches.
 
-(You can add a picture here showing the switches installed.)
 
 Step 3: Flashing the Firmware
 
