@@ -32,7 +32,7 @@ Yo Boizzz , This Is A Keybaord Named KB75 That Includes 75 Keys [Mechanical] wit
 |:---------|:--------:|--------------|-----------:|------------:|
 | **PCB** | 5 | Custom keyboard (5x4 matrix) | $25 with shipping | $25 with shipping|
 | **raspberry pi** | 1 | pico |$5| $5|
-| **Rotary encoder** | 1 | EC11 Vertical 20mm shaft| $1| $1|
+| **Rotary encoder** | 1 | KY040 Vertical 20mm shaft| $1| $1|
 | **mechanical switches** | 75 | Outemu brown |$75| $75|
 | **case and knobs** | 1 | 3D printed |Printing legion| Printing legion|
 | **Usb cable** | 1 | micro usb cable| $4| $4|
